@@ -1,5 +1,5 @@
 # Beater-Trigger-Bot (OPEN SOURCE)
-### **A valorant trigger bot by Rashi and Luck**
+*A valorant trigger bot by Rashi and Luck*
 
 ### **Use at your own risk!**
 
