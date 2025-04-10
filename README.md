@@ -1,6 +1,4 @@
 # Beater-Trigger-Bot (OPEN SOURCE)
-*A valorant trigger bot by Rashi and Luck*
-
 ### **Use at your own risk!**
 
 ## How To Use?
@@ -23,4 +21,7 @@ If you are going to use it for Valorant, you may need to configure the config fi
 
 Assuming you have run the exe, after logging into the game, you need to set the enemy color to purple and assign the shortcut next to the fire key to the "K" key.
 
+
 **note: it may not work but since it is already open source you can edit it to work**
+
+*A valorant trigger bot by Rashi and Luck*
