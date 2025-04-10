@@ -11,7 +11,7 @@ Step 2: Afterwards, you can automatically convert it to exe by running the "beti
 
 Step 3: If you are going to use it for Valorant, you may need to configure the config file yourself. I leave a site for key shortcuts:
 
-**[Virtual Keys][https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes]**
+**[Virtual Keys](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)**
 
 Step 4: Assuming you have run the exe, after logging into the game, you need to set the enemy color to purple and assign the shortcut next to the fire key to the "K" key.
 
